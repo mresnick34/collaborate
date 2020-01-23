@@ -6,11 +6,24 @@ Space for rhythm of business updates and collaboration.
 ## Directors
 
 ### Annual 
-- Generate OKRs - define the working frame against which work will be tracked (set targets and strategy).
-- Budget planning - Fiscal year planning (set targets).
+- Generate OKRs
+  - Purpose: Define the working frame against which work will be tracked (set targets and strategy).
+  - Agenda: 
+    - Review and consolidate proposals.
+    - Rank them based on ROI in accordance with values.
+    - Pick three.
+    - Key results brainstorm on top three.
+    - Affinity map key results.
+    - Set values for key results.
+    - OKRs review. Are they inspiring? In accordance with company values?
+- Budget planning
+  - Purpose: Fiscal year planning (set targets).
+  - Agenda:
 
 ### Quartertly
 - Cross-team interdependency planning.
+  - Purpose: 
+  - Agenda: 
 - Quarterly committments against OKRs or initiatives. These must include definition of done. 
 - Finance meetings - review capitalizable team efforts and budget spends.
 
