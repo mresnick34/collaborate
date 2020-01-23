@@ -3,8 +3,6 @@ Space for rhythm of business updates and collaboration.
 
 # Sample ROB Meeting Cadence
 
-### Strategic Planning Process
-
 ## Directors
 
 ### Annual 
