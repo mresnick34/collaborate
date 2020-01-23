@@ -19,7 +19,7 @@ Space for rhythm of business updates and collaboration.
 - Performance Reviews - How are we progressing on our OKRs?
 
 ### Weekly
-Cross-functional team meetings (during an initiative). - Who is working on what? Who needs what? 
+- Cross-functional team meetings (during an initiative. Bi-monthly or monthly otherwise). - Who is working on what? Who needs what? 
 
 ## Managers
 
